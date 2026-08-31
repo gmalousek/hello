@@ -7,7 +7,7 @@
  *
  */
 #include <stdlib.h>
-#include <stdio.h>bash 
+#include <stdio.h>
 
 int main(int argc, char **argv) {
 
